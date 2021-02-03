@@ -1,4 +1,4 @@
-import Flexbox from "./components/Flexbox";
+import Flexbox from "./components/Flexbox/index";
 
 function App() {
   return (
